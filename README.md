@@ -19,3 +19,4 @@ is count without any stopping when push button (emergency action) the interrupt 
 hardware component send signal (IRQ request) to microprocessor to push all content on stack then
 implement ISR code ISR code that make a buzzer on with led Blinking alarm. when finishing
 implementation of ISR code pop all content form stack and continue main code.
+
